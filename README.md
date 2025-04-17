@@ -1,4 +1,4 @@
-# [<img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="32" />][sikessem-link]' Console
+# [<img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="24" />][sikessem-link]'s Console
 
 The Sikessem console allows you to develop and test command line applications.
 
