@@ -14,37 +14,6 @@
 [![twitter-icon]][twitter-link]
 
 </div>
-
-[sikessem-logo]: https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg
-[sikessem-link]: https://github.com/sikessem "Sikessem"
-
-[php-icon]: https://img.shields.io/badge/PHP-ccc.svg?style=flat&logo=php
-[php-link]: https://github.com/sikessem/console/search?l=php "PHP code"
-
-[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/console
-[packagist-version-link]: https://packagist.org/packages/sikessem/console "Console Releases"
-
-[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/console
-[packagist-download-link]: https://packagist.org/packages/sikessem/console "Console Downloads"
-
-[enabled-icon]: https://img.shields.io/badge/Console-enabled-brightgreen.svg?style=flat
-[enabled-link]: https://github.com/sikessem/console "Console enabled"
-
-[actions-icon]: https://github.com/sikessem/console/workflows/CI/badge.svg
-[actions-link]: https://github.com/sikessem/console/actions "Console status"
-
-[pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
-[pr-link]: [contrib-link] "PRs welcome!"
-
-[twitter-icon]: https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=@sikessem_tweets
-[twitter-link]: https://twitter.com/intent/follow?screen_name=sikessem_tweets "Ping Sikessem"
-
-[license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/sikessem/console/blob/HEAD/LICENSE "Console License"
-[conduct-link]: https://github.com/sikessem/.github/blob/HEAD/CODE_OF_CONDUCT.md
-[contrib-link]: https://github.com/sikessem/.github/blob/HEAD/CONTRIBUTING.md
-[discuss-link]: https://github.com/orgs/sikessem/discussions
-
 ***
 
 # Sikessem's Console
@@ -119,3 +88,35 @@ If you discover a security vulnerability within [Sikessem](https://sikessem.com)
 ***
 
 <div align="center"><sub>Made with ❤︎ by <a href="https://twitter.com/intent/follow?screen_name=siguici" style="content:url(https://img.shields.io/twitter/follow/siguici.svg?label=@siguici);margin-bottom:-6px">@siguici</a>.</sub></div>
+
+[sikessem-logo]: https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg
+[sikessem-link]: https://github.com/sikessem "Sikessem"
+
+[php-icon]: https://img.shields.io/badge/PHP-ccc.svg?style=flat&logo=php
+[php-link]: https://github.com/sikessem/console/search?l=php "PHP code"
+
+[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/console
+[packagist-version-link]: https://packagist.org/packages/sikessem/console "Console Releases"
+
+[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/console
+[packagist-download-link]: https://packagist.org/packages/sikessem/console "Console Downloads"
+
+[enabled-icon]: https://img.shields.io/badge/Console-enabled-brightgreen.svg?style=flat
+[enabled-link]: https://github.com/sikessem/console "Console enabled"
+
+[actions-icon]: https://github.com/sikessem/console/workflows/CI/badge.svg
+[actions-link]: https://github.com/sikessem/console/actions "Console status"
+
+[pr-icon]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=brightgreen
+[pr-link]: [contrib-link] "PRs welcome!"
+
+[twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping Sikessem"
+
+[license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
+[license-link]: https://github.com/sikessem/console/blob/HEAD/LICENSE "Console License"
+[conduct-link]: https://github.com/sikessem/.github/blob/HEAD/CODE_OF_CONDUCT.md
+[contrib-link]: https://github.com/sikessem/.github/blob/HEAD/CONTRIBUTING.md
+[discuss-link]: https://github.com/orgs/sikessem/discussions
+
+
