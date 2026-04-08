@@ -22,8 +22,8 @@ The Sikessem console allows you to develop and test command line applications.
 
 ## 📋 Requirements
 
-> - **Requires [PHP 8.2+](https://php.net/releases/)**
-(at least 8.2.28 recommended to avoid potential bugs).
+> - **Requires [PHP 8.4+](https://php.net/releases/)**
+(at least 8.4.19 recommended to avoid potential bugs).
 > - **Requires [Composer v2+](https://getcomposer.org/)** to manage PHP dependencies.
 
 ## ⚡️ Installation
@@ -98,8 +98,8 @@ All security vulnerabilities will be promptly addressed.
 [actions-icon]: https://github.com/sikessem/console/workflows/CI/badge.svg
 [actions-link]: https://github.com/sikessem/console/actions "Console status"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
-[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping Sikessem"
+[twitter-icon]: https://img.shields.io/twitter/follow/SikessemEng.svg?label=@SikessemEng
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemEng "Ping Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/sikessem/console/blob/HEAD/LICENSE "Console License"
